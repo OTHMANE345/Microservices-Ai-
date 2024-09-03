@@ -1,0 +1,22 @@
+
+o
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Ä¥™
+o
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûµ¸
+t
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ„ÿûıÿÿÿÿ
+d
+java:S1192="IDefine a constant instead of duplicating this literal "password" 3 times.(„…º€şÿÿÿÿ
+a
+java:S1192)"FDefine a constant instead of duplicating this literal "email" 4 times.(·ÿşşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Å²Îûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ
+W
+java:S1126<"AReplace this if-then-else statement by a single return statement.(ÃÔÂ
